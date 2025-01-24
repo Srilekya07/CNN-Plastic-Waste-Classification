@@ -1,5 +1,5 @@
-# WEEK-1
-TO DEVELOP A CNN MODEL TO CLASSIFY IMAGES OF PLASTIC WASTE
+# CNN MODEL TO CLASSIFY IMAGES OF PLASTIC WASTE
+Classifying the waste materials based on visual images using AI-Powered models.
 
 ## Project Objective
 The primary aim of developing a Convolutional Neural Network (CNN) model to classify images of plastic waste is to facilitate efficient and automated waste segregation for environmental sustainability. By leveraging deep learning techniques, the model can accurately identify and categorize different types of plastic waste, such as bottles, bags, and packaging materials, based on their visual characteristics. This classification can enhance recycling processes, reduce human intervention, and support waste management systems in minimizing plastic pollution. Ultimately, the project seeks to contribute to global efforts in promoting a circular economy and protecting ecosystems from the harmful impact of plastic waste.

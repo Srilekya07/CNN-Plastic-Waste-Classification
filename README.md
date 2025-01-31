@@ -13,5 +13,10 @@ The dataset used for this project is Waste Classification Data. It contains a to
 ## Week-1 Update:
   - Imported all necessary libraries and frameworks.
   - Configured the project environment.
-  ○ Explored the dataset structure.
+  - Explored the dataset structure.
+
+## Week-2 Upadate:
+  - Set Up Data Generators.
+  - Build the CNN Model.
+  - Train the Model.
 

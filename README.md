@@ -6,11 +6,13 @@ The primary aim of developing a Convolutional Neural Network (CNN) model to clas
 
 ## Dataset
 The dataset used for this project is Waste Classification Data. It contains a total of 25,077 labeled images, divided into two categories: Organic and Recyclable.
-Dataset is divided into train data (85%) and test data (15%)  
-Training data - 22564 images and Test data - 2513 images.
-You can access the dataset here: https://www.kaggle.com/datasets/techsash/waste-classification-data.
+* Dataset is divided into train data (85%) and test data (15%)  
+* Training data - 22564 images and Test data - 2513 images.
+* You can access the dataset here: https://www.kaggle.com/datasets/techsash/waste-classification-data.
 
 ## Week-1 Update:
-Imported all necessary libraries and frameworks.
-Configured the project environment.
-Explored the dataset structure.
+<ul>
+  <li>○ Imported all necessary libraries and frameworks.</li>
+  <li>○ Configured the project environment.</li>
+  <li>○ Explored the dataset structure.</li>
+</ul>

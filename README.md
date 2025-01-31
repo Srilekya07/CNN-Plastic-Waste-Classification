@@ -11,8 +11,7 @@ The dataset used for this project is Waste Classification Data. It contains a to
 * You can access the dataset here: https://www.kaggle.com/datasets/techsash/waste-classification-data.
 
 ## Week-1 Update:
-<ul>
-  <li>○ Imported all necessary libraries and frameworks.</li>
-  <li>○ Configured the project environment.</li>
-  <li>○ Explored the dataset structure.</li>
-</ul>
+  ○ Imported all necessary libraries and frameworks.
+  ○ Configured the project environment.
+  ○ Explored the dataset structure.
+

@@ -20,3 +20,8 @@ The dataset used for this project is Waste Classification Data. It contains a to
   - Build the CNN Model.
   - Train the Model.
 
+## Week-3 Upadate:
+  - Analyzed model performance.
+  - Measured training and validation accuracy/loss.
+  - Generated predictions on test images using the trained model.
+
